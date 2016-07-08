@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GenoSeq:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GenoSeq_jar</output-path>
+    <root id="archive" name="GenoSeq.jar">
+      <element id="module-output" name="GenoSeq" />
+    </root>
+  </artifact>
+</component>
